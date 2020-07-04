@@ -21,6 +21,7 @@
     margin: 0;
     padding: 0;
     font-family: "Be Vietnam", sans-serif;
+    overflow-x: hidden !important;
   }
 </style>
 

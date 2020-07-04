@@ -28,13 +28,13 @@
       width: 100%;
     }
     .Hero-copy h1 {
-      font-size: 45px;
+      font-size: 40px;
     }
     .Hero-content {
       justify-content: center;
     }
     .Hero-graph img {
-      width: 400px;
+      width: 380px;
       padding: 5px;
     }
   }

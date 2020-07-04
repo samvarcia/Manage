@@ -77,19 +77,22 @@
   }
   @media screen and (max-width: 768px) {
     .Footer-container {
-      padding: 20px 80px;
+      padding: 20px 20px;
     }
     .Footer-links ul {
       padding: 0;
     }
     .Footer-links {
-      padding: 20px;
+      padding: 20px 0px;
       width: 400px;
     }
     .Footer-social ul img {
       margin-top: 40px;
       padding: 10px;
       width: 30px;
+    }
+    .send input {
+      width: 180px;
     }
   }
 </style>

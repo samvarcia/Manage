@@ -12,6 +12,10 @@
     .FactCard-content li h3 {
       color: var(--main-orange);
     }
+    .FactCard-content p {
+      font-size: 13px;
+      width: 300px;
+    }
   }
 </style>
 

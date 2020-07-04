@@ -80,7 +80,7 @@
 
       /* padding-left: 200px; */
     }
-    .Header-nav ul {
+    .menu {
       margin-top: 50px;
       width: 100vw;
       height: 50vh;
@@ -92,7 +92,7 @@
       background: #fff;
       padding: 0;
       top: 0;
-      right: -200vw;
+      right: 0;
       z-index: 3;
       display: flex;
       justify-content: center;
@@ -103,7 +103,7 @@
       transition: 0.3s;
     }
     .Header-nav ul.is-active {
-      right: 0;
+      right: -220vw;
     }
     .bb {
       display: none;
