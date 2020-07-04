@@ -17,6 +17,14 @@
     color: #fff;
     flex-wrap: wrap;
   }
+  @media screen and (max-width: 768px) {
+    .Banner-container {
+      text-align: center;
+    }
+    .Banner-content {
+      justify-content: center;
+    }
+  }
 </style>
 
 <div class="Banner">

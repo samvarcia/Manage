@@ -24,9 +24,11 @@
   }
 </style>
 
-<Header />
-<Hero />
-<Facts />
-<Users />
-<Banner />
-<Footer />
+<main>
+  <Header />
+  <Hero />
+  <Facts />
+  <Users />
+  <Banner />
+  <Footer />
+</main>

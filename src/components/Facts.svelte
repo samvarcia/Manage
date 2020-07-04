@@ -12,10 +12,18 @@
     justify-content: space-between;
   }
 
-  /* ol {
-    list-style-type: none;
-    counter-reset: lista-personalizada;
-  } */
+  @media screen and (max-width: 768px) {
+    .Facts-container {
+      padding: 0;
+      text-align: center;
+    }
+    .Facts-content {
+      justify-content: center;
+    }
+    ol {
+      padding: 0;
+    }
+  }
 </style>
 
 <div class="Facts">

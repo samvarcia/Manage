@@ -8,6 +8,11 @@
     color: var(--main-gray);
     width: 450px;
   }
+  @media screen and (max-width: 768px) {
+    .FactCard-content li h3 {
+      color: var(--main-orange);
+    }
+  }
 </style>
 
 <div class="FactCard">

@@ -23,7 +23,19 @@
   }
   @media screen and (max-width: 768px) {
     .Hero-container {
-      padding: 0;
+      padding: 5px;
+      text-align: center;
+      width: 100%;
+    }
+    .Hero-copy h1 {
+      font-size: 45px;
+    }
+    .Hero-content {
+      justify-content: center;
+    }
+    .Hero-graph img {
+      width: 400px;
+      padding: 5px;
     }
   }
 </style>
